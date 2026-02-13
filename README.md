@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Full Stack Engineer (Mobile & Web) 🚀</h3>
+  <h3>Full Stack Engineer 🚀</h3>
   <p>Building high-performance, user-centric solutions with React, TypeScript, Kotlin, and Flutter.</p>
   
   <a href="mailto:sunuerico+github@gmail.com">
@@ -62,8 +62,9 @@ I am a results-driven Software Engineer based in **Ghana** 🇬🇭 with over **
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElikplimSunu&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElikplimSunu&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElikplimSunu&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElikplimSunu&theme=tokyo-night" alt="activity graph" />
 </div>
 
 <div align="center">
